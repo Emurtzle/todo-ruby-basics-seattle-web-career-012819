@@ -10,7 +10,7 @@ def argue (ment)
   ment
 end
 
-def greeting
+def greeting (one, two)
 
 end
 
